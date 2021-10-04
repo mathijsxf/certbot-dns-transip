@@ -1,5 +1,5 @@
-acme>=0.16.0
-certbot>=0.16.0
+acme>=1.19.0
+certbot>=1.19.0
 transip~=2.1.0
 setuptools>=1.0
 six>=1.10.0
